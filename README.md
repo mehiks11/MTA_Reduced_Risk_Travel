@@ -1,4 +1,5 @@
-## MTA Project  *Guide for Reduced Risk Travel Through the NYC Subway System*
+## MTA Project  
+### *Guide for Reduced Risk Travel Through the NYC Subway System*
 
 
 This project utilizes [MTA public turnstile data](http://web.mta.info/developers/turnstile.html "MTA Turnstile Data") to guide immunocompromised transit riders to safer travel times/locations during COVID. The project garners flat data from the [last three months](https://github.com/mehiks11/Metis_MTA_Project/tree/master/data "MTA Project Weekly Flat Data Sets") to rank times, stations, and lines by traffic. [This notebook](https://github.com/mehiks11/Metis_MTA_Project/blob/master/Metis_MTA_Project_Code.ipynb "MTA Project Notebook") details the process of data cleaning and final results production for the project.
