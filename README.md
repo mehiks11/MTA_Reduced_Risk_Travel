@@ -6,7 +6,7 @@ This project utilizes [MTA public turnstile data](http://web.mta.info/developers
 The original project proposal with initially set intentions and goals for the project can be found [here](https://github.com/mehiks11/Metis_MTA_Project/blob/master/Project%20Proposal.ipynb "Project Proposal").
 
 
-###**Data:**
+### **Data:**
 
 [Here](https://github.com/mehiks11/Metis_MTA_Project/blob/master/mta.db "MTA SQL Database") is the merged database with the three months of data that was queried into python via SQLAlchemy. 
 
