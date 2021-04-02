@@ -19,9 +19,9 @@ This project involved creating an activity column to determine traffic levels. F
 
 
 ### Tools
-•	Numpy and pandas for data manipulation and cleaning
-•	Seaborn and matplotlib for visualizations
-•	Bokeh for mapping visualization
+* Numpy and pandas for data manipulation and cleaning
+* Seaborn and matplotlib for visualizations
+* Bokeh for mapping visualization
 
 
 ### Communication 
