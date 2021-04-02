@@ -1,5 +1,5 @@
 
-#NYC Transit Guide: Reduced Risk Travel
+# NYC Transit Guide: Reduced Risk Travel
 
 ### Abstract
 
